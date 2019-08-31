@@ -90,8 +90,11 @@ body
   .graph
   {
       height: 300px; 
-      /*width: 640px;*/
-   
+      width: 550px;
+  }
+  .work-graph
+  {
+    height: 200px; 
   }
  
 #work

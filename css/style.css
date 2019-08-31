@@ -1,6 +1,6 @@
-body
-{
-    overflow-x: hidden;
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
 }
 .navbar
 {
@@ -53,7 +53,6 @@ body
     padding-left: 1.5rem;
 }
 
-
 .banner
  {
     height:100vh;
@@ -64,7 +63,6 @@ body
     background-size: cover;
     background: url('../images/header_bg.jpg');
     padding: 80px;
-    background-position: fixed;
 }
 
  h1.font-weight-bold 
@@ -96,7 +94,6 @@ body
   {
     height: 200px; 
   }
- 
 #work
 {
     padding-top: 100px;
